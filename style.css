@@ -1,0 +1,88 @@
+body{
+background-image: url("img/background.jpg");
+background-attachment: fixed;
+background-size: cover;;
+}
+
+.github{
+color: blue;
+background: white;
+border: 2px;
+margin: 2px 0px 2px 700px;
+padding: 1px 1px 1px 50px;
+border-radius: 15px;
+}
+
+.mainhead{
+color: #0909ed;
+text-align: center;
+}
+
+#logo{
+margin: 2px 200px 2px 60px;
+width: 250px;
+height: 250px;
+}
+
+.author{
+color: #ddf00a;
+margin: 2px 200px 2px 80px;
+}
+
+.welcome{
+color: white;
+margin: 1px 200px 0px 60px; 
+}
+
+.intro{
+color: white;
+margin: 0px 200px 1px 20px;
+}
+
+.phishing{
+color: #fcba03;
+text-align: center;
+}
+
+#phishimg{
+margin: 1px 200px 1px 100px;
+}
+
+.usage1{
+color: white;
+}
+
+.phishlink{
+text-align: center;
+}
+
+.cctv{
+color: #fcba03;
+text-align: center;
+}
+
+#cctvimg{
+margin: 1px 200px 1px 100px;
+}
+
+.usage2{
+color: white;
+}
+
+.cctvlink{
+text-align: center;
+}
+
+.design{
+color: white;
+text-align: center;
+}
+
+.details{
+color: white;
+}
+
+.instruction{
+color: white;
+text-align: center;
+}
